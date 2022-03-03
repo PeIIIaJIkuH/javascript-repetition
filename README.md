@@ -1,2 +1,2 @@
 # javascript-repetition
-- Повторение материала с [learn.javascript.ru](www.learn.javascript.ru)
+- Повторение материала с [learn.javascript.ru](https://learn.javascript.ru)
